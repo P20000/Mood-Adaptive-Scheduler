@@ -1,4 +1,4 @@
-## 🧠 Mood Scheduler — AI-Powered Emotion-Aware Time Optimizer
+# Mood Scheduler — AI-Powered Emotion-Aware Time Optimizer
 
 **Smart, personalized time management powered by your mood.**
 
@@ -6,7 +6,7 @@ Mood Scheduler is an AI-driven productivity web app that helps users plan and op
 
 ---
 
-### 🚀 Key Features
+### Key Features
 
 * 🕓 **Adaptive Schedule Generator** – Creates daily/weekly plans that adjust dynamically with your mood and energy.
 * 😊 **Mood Recognition** – Log your mood or let the AI infer it through short text or emoji inputs.
@@ -16,14 +16,14 @@ Mood Scheduler is an AI-driven productivity web app that helps users plan and op
 
 ---
 
-### 💡 Why It Matters
+### Why It Matters
 
 Most people struggle to follow rigid schedules — real life and emotions get in the way.
 Mood Scheduler blends **behavioral science + AI** to create *emotion-aware productivity*, making it human-friendly rather than mechanical.
 
 ---
 
-### 🛠️ Tech Stack
+### Tech Stack
 
 | Layer           | Tools                                         |
 | --------------- | --------------------------------------------- |
@@ -35,7 +35,7 @@ Mood Scheduler blends **behavioral science + AI** to create *emotion-aware produ
 
 ---
 
-### 🧩 Folder Structure
+### Folder Structure
 
 ```
 /frontend  → React-based UI  
@@ -66,13 +66,13 @@ npm run dev
 
 ---
 
-### 🧭 Vision
+### Vision
 
 To redefine productivity tools by making them emotionally intelligent — helping users plan their time *with themselves*, not against themselves.
 
 ---
 
-### 🏷️ Tags
+### Tags
 
 `#AIProductivity` `#MoodTracking` `#Flask` `#React` `#PersonalOptimization` `#BehavioralAI`
 
